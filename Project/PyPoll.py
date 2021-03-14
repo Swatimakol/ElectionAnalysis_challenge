@@ -167,13 +167,7 @@ with open(file_to_save, "w") as txt_file:
     print(winning_candidate_summary)
     txt_file.write(winning_candidate_summary)
      
-    #print(candidate_options)
-    #print(candidate_votes)
     
         
 
-# Using the open() function with the "w" mode 
-# we will write data to the fide.
-#with open(file_to_save, "w") as txt_file:
-    #txt_file.write("Hello World")
 
